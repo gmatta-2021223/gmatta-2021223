@@ -48,5 +48,7 @@ const aboutMe = {
 
 ---
 
-### :fire: Top Languages :
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmatta-2021223&langs_count=10&theme=tokyonight&layout=compact"/>
+### :fire: Top Languages and stats:
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmatta-2021223&langs_count=10&theme=dark&layout=compact"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gmatta-2021223&theme=dark)](https://git.io/streak-stats)
